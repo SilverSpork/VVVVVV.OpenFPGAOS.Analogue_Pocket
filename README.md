@@ -11,12 +11,12 @@ VVVVVV's is hard-coded for the UP and DOWN buttons to flip. Since the Analogue P
 
 Game-play has been optimized to perform fluently on the Pocket, however if you're experiencing lag, try to keep the Game-play at 30 FPS which can be toggled in the Settings Menu. My Analogue Pocket is running firmware 2.7 and runs great on there. There may be some lag on levels with lots of moving graphics, but I try to optimize them. 
 
-#Disclaimer
+# Disclaimer
 This was created solely through Codex/Claude. The OpenFPGAOS Core is already stable and I thought it would be nice to try to get VVVVVV to run on the Analogue Pocket, and possibly try other games.
 
 I have not tested it with Analogizer or the Analogue Dock, however it should perform the same as other games. 
 
-#Setup
+# Setup
 1. Download the current release.
 2. Put the respected folder in the folders on your SD Card.
 3. VVVVVV should be located in the "Computer" Section of the OpenFPGA Library
