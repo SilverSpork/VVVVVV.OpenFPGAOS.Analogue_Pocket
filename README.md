@@ -21,3 +21,5 @@ I have not tested it with Analogizer or the Analogue Dock, however it should per
 2. Put the respected folder in the folders on your SD Card.
 3. VVVVVV should be located in the "Computer" Section of the OpenFPGA Library
 4. Boot the "vvvvvv.json" and the game will boot. 
+
+![Picture of Pocket Running VVVVVV](https://github.com/SilverSpork/VVVVVV.OpenFPGAOS.Analogue_Pocket/blob/main/IMG_2239.JPG)
